@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1853947196:AAFLd8ffenUKN4Cv7nG2W83Xcf6mALvvj1E"
+    APP_ID = "3142204"
+    API_HASH = "0d9edde42afce632a54d55b22fb9b56f"
+    DATABASE_URL = "postgres://wihabwkdgujwqc:a145c34f02432ad784d07402567df00125dcbcfa02ff21ffde22185be4fda06a@ec2-34-200-94-86.compute-1.amazonaws.com:5432/d8dtd9q7euhp4n"
+    SUDO_USERS = "994938597" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/gdriveuploadermsa"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
